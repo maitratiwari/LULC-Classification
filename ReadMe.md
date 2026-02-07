@@ -43,7 +43,7 @@ Both **unsupervised** and **supervised** classification results are provided as 
 
 ---
 
-## Learning Outcomes
+## 🚀 Learning Outcomes
 - Clustering-based land cover mapping  
 - Automated training data creation  
 - Feature selection and supervised model training  
